@@ -6,6 +6,40 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "kenzinho1@mail.com",
+      "password": "$2a$10$.NXShByKcbDZzm8W0yN.7edJ2vbgP6DiTOZfpAtQ94fIjwZg5E0nu",
+      "id": 3
+    },
+    {
+      "email": "kenzinho12@mail.com",
+      "password": "$2a$10$GiaKm7GuNuFD4DcD7cScfOeXWXEMOHRp8pMCsIgoZGEybd5kP.azC",
+      "id": 4
+    },
+    {
+      "email": "kenzinho123@mail.com",
+      "password": "$2a$10$J0Q9c0tHiCvTLDJMkXzRnO7YtnUae06lrrRSfFDl.m.fekd3Llko2",
+      "id": 5
+    }
+  ],
+  "tech": [
+    {
+      "tech": "React",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "tech": "React",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "work": [
+    {
+      "tech": "Facebook Page",
+      "userId": 1,
+      "id": 1
     }
   ]
 }

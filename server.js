@@ -10,6 +10,8 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
+  tech: 644,  //Conter uma rota na qual apenas os usuários logados poderão ter acesso a leitura;
+  work: 640,
 });
 
 app.use(cors());
